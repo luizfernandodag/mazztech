@@ -12,7 +12,6 @@ Este projeto é um serviço Spring Boot responsável por receber eventos via Web
 - Spring Data JPA (Hibernate)
 - MySQL
 - Lombok
-- OpenAPI / Swagger
 - Postman (para testes)
 
 ---
